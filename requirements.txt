@@ -1,0 +1,10 @@
+langchain-groq
+tiktoken
+chromadb
+langchain
+langchain-community
+flask
+GitPython
+python-dotenv
+langchain-google-genai
+-e .
